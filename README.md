@@ -2,7 +2,7 @@
 
 Designing a recipe website to showcase the html I've just learned.
 
-I completed the Recipe Project Website. 
+I just completed the Recipe Project Website. 
 
 It was a lot of fun to mess around with html and complete a functional, albeit, pretty ugly website. 
 
